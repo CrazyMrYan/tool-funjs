@@ -1,7 +1,6 @@
 # tool-funjs
-![](https://img.shields.io/npm/v/cascading-picker.svg)
-![](https://img.shields.io/npm/dt/cascading-picker.svg)
-![](https://img.shields.io/github/license/alanchenchen/CascadingPicker.svg)
+
+![](https://img.shields.io/npm/l/tool-funjs)
 
 # 快速上手
 ## 安装
