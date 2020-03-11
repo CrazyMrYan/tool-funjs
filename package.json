@@ -1,0 +1,24 @@
+{
+  "name": "tool-funjs",
+  "version": "1.1.3",
+  "description": "This is a JavaScript utility function",
+  "main": "index.js",
+  "scripts": {
+    "test": "1.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyMrYan/tooljs.git"
+  },
+  "keywords": [
+    "tool",
+    "utiity",
+    "function"
+  ],
+  "author": "CrazyYan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazyMrYan/tooljs/issues"
+  },
+  "homepage": "https://github.com/CrazyMrYan/tooljs#readme"
+}
