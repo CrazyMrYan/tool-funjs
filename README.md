@@ -74,6 +74,7 @@ this.tooljs.$isStatic('str')// true
 21、repeat：生成一个重复的字符串，有n个str组成，可修改为填充为数组等
 
 ```
+<p>If you like, please give me a star :star:</p>
 <img width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/beishang.png" align="left" >  
 <img  width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/zan.png" align="left" />
 <img  width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/wechat.png" align="left" />
