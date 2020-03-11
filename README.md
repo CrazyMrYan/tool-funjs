@@ -1,7 +1,7 @@
 # tool-funjs
 
 ![](https://img.shields.io/badge/%20download-340-brightgreen.svg)
-![](https://img.shields.io/npm/l/tool.svg)
+![](https://img.shields.io/npm/l/tool-funjs.svg)
 
 
 # 快速上手
