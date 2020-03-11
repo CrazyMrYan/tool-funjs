@@ -1,6 +1,7 @@
 # tool-funjs
 
-![](https://img.shields.io/npm/l/tool-funjs)
+![](https://img.shields.io/badge/%20download-340-brightgreen.svg)
+
 
 # 快速上手
 ## 安装
