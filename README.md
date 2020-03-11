@@ -6,7 +6,7 @@
 ```shell
 npm install tool-funjs
 ```
- ### 全局注册（在main.js文件里注册）
+### 全局注册（在main.js文件里注册）
 
 ```javascript
 import tooljs from 'tool-funjs';
