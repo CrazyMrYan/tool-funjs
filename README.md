@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/%20download-340-brightgreen.svg)
 ![](https://img.shields.io/npm/l/tool-funjs.svg)
+![](https://img.shields.io/github/stars/CrazyMrYan/tool-funjs?style=social.svg)
+
 
 
 # 快速上手
