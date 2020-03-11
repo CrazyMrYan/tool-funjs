@@ -1,8 +1,8 @@
 # tool-funjs
 
-![](https://img.shields.io/badge/%20downloads-340/week-brightgreen.svg)
+<p align="left">![](https://img.shields.io/badge/%20downloads-340/week-brightgreen.svg)
 ![](https://img.shields.io/npm/l/tool-funjs.svg)
-![](https://img.shields.io/github/stars/CrazyMrYan/tool-funjs?style=social.svg)
+![](https://img.shields.io/github/stars/CrazyMrYan/tool-funjs?style=social.svg)</p>
 
 
 
@@ -74,3 +74,6 @@ this.tooljs.$isStatic('str')// true
 21、repeat：生成一个重复的字符串，有n个str组成，可修改为填充为数组等
 
 ```
+<img width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/beishang.png" >  
+<img  width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/zan.png" />
+<img  width="180" src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/wechat.png"  />
