@@ -1,6 +1,6 @@
 <h1 align="center"> tool-funjs </h1>
 
-![](https://img.shields.io/badge/%20downloads-340/week-brightgreen.svg)
+![](https://img.shields.io/badge/%20downloads-445/week-brightgreen.svg)
 ![](https://img.shields.io/npm/l/tool-funjs.svg)
 ![](https://img.shields.io/github/stars/CrazyMrYan/tool-funjs?style=social.svg)
 
